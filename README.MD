@@ -28,7 +28,7 @@
 
 ## Current Directory
 >Hello world!<br>
-<code>/cherrypy/dist/helloword</code><br>
+<code>/cherrypy/dist/helloworld</code><br>
 >Monolith Crud Data Cars<br>
 <code>/cherrypy/dist/monolith</code><br>
 >Chat<br>
@@ -40,7 +40,7 @@
 
 ## Run The Project
 >Hello world!<br>
-<code>python -m cherrypy.dist.helloword.main</code><br>
+<code>python -m cherrypy.dist.helloworld.main</code><br>
 >Monolith Crud Data Cars<br>
 <code>python -m cherrypy.dist.monolith</code><br>
 >Chat<br>
