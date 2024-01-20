@@ -23,8 +23,8 @@
 > <a herf="https://docs.cherrypy.dev/en/latest/">Cherrypy Framework</a> Website <br>
 <code>pip install cherrypy</code><br>
 > Clone This Project<br>
-<code>git clone https://github.com/kelompokreyhannyakitin/cherrypy.git</code> / you can download this in code button<br>
-<code>cd cherrypy_pabw</code><br>
+<code>git clone https://github.com/kelompokreyhannyakitin/cherrypy.git</code> / you can download this on code button<br>
+<code>cd cherrypy</code><br>
 
 ## Current Directory
 >Hello world!<br>
