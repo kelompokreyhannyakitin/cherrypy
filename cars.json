@@ -1,0 +1,20 @@
+[
+    {
+        "merk": "honda",
+        "jenis": "matic",
+        "tahun": "2020",
+        "nama" : "CR-V"
+    },
+    {
+        "merk": "daihatsu",
+        "jenis": "manual",
+        "tahun": "2010",
+        "nama" : "hi-jet 1000"
+    },
+    {
+        "merk": "isuzu",
+        "jenis": "manual",
+        "tahun": "1997",
+        "nama" : "panther"
+    }
+]

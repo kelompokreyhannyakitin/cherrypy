@@ -1,0 +1,1 @@
+thing2 = object()

@@ -57,3 +57,9 @@ out/
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+/cherrypy/dist/api/__pycache__/*
+/cherrypy/dist/chat/__pycache__/*
+/cherrypy/dist/helloworld/__pycache__/*
+/cherrypy/dist/key/__pycache__/*
+/cherrypy/dist/monolith/__pycache__/*
