@@ -1,4 +1,4 @@
-#Group of Reyhan Nyakitin 🥵
+# Group of Reyhan Nyakitin 🥵
 
 |  Nama | NIM  |
 | :------------: | :------------: |
