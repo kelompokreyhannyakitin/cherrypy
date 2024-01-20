@@ -15,39 +15,39 @@
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 ## Prerequisite
-> Python 3.0+
-> Pip python
-> Git
+> Python 3.0+ <br>
+> Pip python <br>
+> Git <br>
 
 ## Installation
-> <a herf="https://docs.cherrypy.dev/en/latest/">Cherrypy Framework</a> Website 
-<code>pip install cherrypy</code>
-> Clone This Project
-<code>git clone </code> / you can download this in code button
-<code>cd cherrypy_pabw</code>
+> <a herf="https://docs.cherrypy.dev/en/latest/">Cherrypy Framework</a> Website <br>
+<code>pip install cherrypy</code><br>
+> Clone This Project<br>
+<code>git clone </code> / you can download this in code button<br>
+<code>cd cherrypy_pabw</code><br>
 
 ## Current Directory
->Hello world!
-<code>/cherrypy/dist/helloword</code>
->Monolith Crud Data Cars
-<code>/cherrypy/dist/monolith</code>
->Chat
-<code>/cherrypy/dist/chat</code>
->Webservice
-<code>/cherrypy/dist/api</code>
->Public & Private Key
-<code>/cherrypy/dist/key</code>
+>Hello world!<br>
+<code>/cherrypy/dist/helloword</code><br>
+>Monolith Crud Data Cars<br>
+<code>/cherrypy/dist/monolith</code><br>
+>Chat<br>
+<code>/cherrypy/dist/chat</code><br>
+>Webservice<br>
+<code>/cherrypy/dist/api</code><br>
+>Public & Private Key<br>
+<code>/cherrypy/dist/key</code><br>
 
 ## Run The Project
->Hello world!
-<code>python -m cherrypy.dist.helloword.main</code>
->Monolith Crud Data Cars
-<code>python -m cherrypy.dist.monolith</code>
->Chat
-<code>python -m cherrypy.dist.chat.main</code>
->Webservice
-<code>python -m cherrypy.dist.api</code>
->Public & Private Key
-<code>python -m cherrypy.dist.key</code>
+>Hello world!<br>
+<code>python -m cherrypy.dist.helloword.main</code><br>
+>Monolith Crud Data Cars<br>
+<code>python -m cherrypy.dist.monolith</code><br>
+>Chat<br>
+<code>python -m cherrypy.dist.chat.main</code><br>
+>Webservice<br>
+<code>python -m cherrypy.dist.api</code><br>
+>Public & Private Key<br>
+<code>python -m cherrypy.dist.key</code><br>
 
 ###Thank to Mr Irwan Alnarus K. S.Kom., M.Kom., Ph.D ✨
