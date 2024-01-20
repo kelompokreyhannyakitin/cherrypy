@@ -23,7 +23,7 @@
 > <a herf="https://docs.cherrypy.dev/en/latest/">Cherrypy Framework</a> Website <br>
 <code>pip install cherrypy</code><br>
 > Clone This Project<br>
-<code>git clone </code> / you can download this in code button<br>
+<code>git clone https://github.com/kelompokreyhannyakitin/cherrypy.git</code> / you can download this in code button<br>
 <code>cd cherrypy_pabw</code><br>
 
 ## Current Directory
@@ -50,4 +50,4 @@
 >Public & Private Key<br>
 <code>python -m cherrypy.dist.key</code><br>
 
-###Thank to Mr Irwan Alnarus K. S.Kom., M.Kom., Ph.D ✨
+### Thank to Mr Irwan Alnarus K. S.Kom., M.Kom., Ph.D ✨
